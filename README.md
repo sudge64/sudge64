@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, my name is C.J. Wade
+
+- 🏛️ Undergraduate student majoring in software engineering.
+- 🔭 I’m currently working on an Ansible script for the automatic setup of my personal Linux systems.
+- ⚡ Fun fact: Alligators and squirrels apparently taste similar, like chicken!
 
 <!--
 **sudge64/sudge64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +31,7 @@ Here are some ideas to get you started:
     <samp>
       <img src="https://img.shields.io/badge/C-a8b9cc.svg?&style=for-the-badge&logo=c&logoColor=black">
       <img src="https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=c%2b%2b&logoColor=white">
-      <img src="">
+      <img src="https://img.shields.io/badge/java.svg?&style=for-the-badge&logo=java&logoColor=white">
       <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/markdown-48ac98.svg?&style=for-the-badge&logo=markdown&logoColor=white">
       <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
