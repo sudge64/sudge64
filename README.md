@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 <div align="center">
 <table border="0">
 <td>
-    ![info](https://github-readme-stats.vercel.app/api?username=sudge64)
+    ![info](https://github-readme-stats.vercel.app/api?username=sudge64&show_icons=true&hide_border=true&count_private=true&hide=prs&theme=&bg_color=00000000)
 </td>
 <td>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudge64)](https://github.com/anuraghazra/github-readme-stats)
+    ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudge64&theme=&layout=compact&hide_border=true&bg_color=00000000)
 </td>
 </table>
 </di>
