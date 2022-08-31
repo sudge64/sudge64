@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudge64&theme=&layout=compact&hide_border=true&bg_color=00000000)
 </td>
 </table>
-</di>
+</div>
 <p align="left"><strong><samp></samp></strong></p><p align="center">
     <samp>
       <img src="https://img.shields.io/badge/-C-blue?&style=for-the-badge&logo=c&logoColor=white">
@@ -40,6 +40,8 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/-Markdown-black?&style=for-the-badge&logo=markdown&logoColor=white">
       <img src="https://img.shields.io/badge/-VSCode-blue?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
       <img src="https://img.shields.io/badge/-Visual%20Studio-purple?&style=for-the-badge&logo=visual-studio&logoColor=white">
+      <img src="https://img.shields.io/badge/-Linux-yellowgreen?&style=for-the-badge&logo=linux&logoColor=white">
+      <img src="https://img.shields.io/badge/-popos-blue?&style=for-the-badge&logo=popos&logoColor=white">
     </samp>
     <br>
 </p><p align="right"><strong><samp></samp></strong></p>
