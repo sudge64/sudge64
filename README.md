@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
 <table border="0">
 <td>
-    [![info](https://github-readme-stats.vercel.app/api?username=sudge64)](https://github.com/anuraghazra/github-readme-stats)
+    ![info](https://github-readme-stats.vercel.app/api?username=sudge64)
 </td>
 <p align="left"><strong><samp></samp></strong></p><p align="center">
     <samp>
