@@ -3,8 +3,8 @@
 
 - 🏛️ Undergraduate student majoring in software engineering.
 - 🔭 I’m currently working on an Ansible script for the automatic setup of my personal Linux systems.
-- 📫 How to reach me: Send me a [GitHub message <img src="https://img.shields.io/badge/-github-black?&style=for-the-badge&logo=github&logoColor=white">.](https://www.cj-wade.com)
 - ⚡ Fun fact: Alligators and squirrels apparently taste similar, like chicken!
+- ✨ Personal website: [<img src="https://img.shields.io/badge/-website-black?&style=for-the-badge&logo=github&logoColor=white">](https://www.cj-wade.com)
 
 <!--
 **sudge64/sudge64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
