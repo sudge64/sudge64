@@ -3,6 +3,7 @@
 
 - 🏛️ Undergraduate student majoring in software engineering.
 - 🔭 I’m currently working on an Ansible script for the automatic setup of my personal Linux systems.
+- 📫 How to reach me: Send me a [GitHub message <img src="https://img.shields.io/badge/-github-black?&style=for-the-badge&logo=github&logoColor=white">.](https://www.cj-wade.com)
 - ⚡ Fun fact: Alligators and squirrels apparently taste similar, like chicken!
 
 <!--
@@ -46,7 +47,6 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/-VSCode-blue?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
       <img src="https://img.shields.io/badge/-Visual%20Studio-purple?&style=for-the-badge&logo=visual-studio&logoColor=white">
       <img src="https://img.shields.io/badge/-Linux-yellowgreen?&style=for-the-badge&logo=linux&logoColor=white">
-      <img src="https://img.shields.io/badge/-pop!_os-blue?&style=for-the-badge&logo=popos&logoColor=white">
     </samp>
     <br>
 </p><p align="right"><strong><samp></samp></strong></p>
