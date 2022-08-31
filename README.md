@@ -1,4 +1,4 @@
-### Hi there 👋, my name is C.J. Wade
+<h1 align="center">Hi there 👋, my name is C.J. Wade</a></h1>
 
 - 🏛️ Undergraduate student majoring in software engineering.
 - 🔭 I’m currently working on an Ansible script for the automatic setup of my personal Linux systems.
