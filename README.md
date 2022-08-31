@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 <td>
     ![info](https://github-readme-stats.vercel.app/api?username=sudge64)
 </td>
+<td>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudge64)](https://github.com/anuraghazra/github-readme-stats)
+</td>
 <p align="left"><strong><samp></samp></strong></p><p align="center">
     <samp>
       <img src="https://img.shields.io/badge/C-a8b9cc.svg?&style=for-the-badge&logo=c&logoColor=black">
