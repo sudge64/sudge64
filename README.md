@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 <td>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudge64)](https://github.com/anuraghazra/github-readme-stats)
 </td>
+</table>
+</di>
 <p align="left"><strong><samp></samp></strong></p><p align="center">
     <samp>
       <img src="https://img.shields.io/badge/-C-blue?&style=for-the-badge&logo=c&logoColor=white">
