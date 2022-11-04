@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, my name is C.J. Wade</h1>
 
-```Digital Craftsman (Devloper/Maker)```
+<h4 align="center">```Digital Craftsman (Devloper/Maker)```</h4>
 
 <h3 align="center">This is what I'm up to...</h3>
 
