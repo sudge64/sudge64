@@ -5,7 +5,7 @@
 <h3 align="center">This is what I'm up to...</h3>
 
 - 🏛️ Undergraduate student majoring in software engineering.
-- 🔭 I’m currently working on an Ansible script for the automatic setup of my personal Linux systems.
+- 🔭 I’m currently working on an a set of bash scripts for the automatic setup of my personal Linux systems.
 - ⚡ Fun fact: Alligators and squirrels apparently taste similar, like chicken!
 - ✨ Personal website: [<img src="https://img.shields.io/badge/-website-black?&style=for-the-badge&logo=github&logoColor=white">](https://www.cj-wade.com)
 
