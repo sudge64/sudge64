@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 ---
 <div align="center">
 <table border="0">
-<td>
+<!--td>
   
 ![info](https://github-readme-stats.vercel.app/api?username=sudge64&show_icons=true&hide_border=true&count_private=true&hide=prs&theme=&bg_color=00000000)
 
-</td>
+</td-->
   
 <td>
 
