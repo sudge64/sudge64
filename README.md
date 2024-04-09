@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     <samp>
       <img src="https://img.shields.io/badge/-C-blue?&style=for-the-badge&logo=c&logoColor=white">
       <img src="https://img.shields.io/badge/-C%2B%2B-blue?&style=for-the-badge&logo=c%2B%2B&logoColor=white">
-      <img src="https://img.shields.io/badge/-Java-red?&style=for-the-badge&logo=oracle">
+      <img src="https://img.shields.io/badge/-Rust-red?&style=for-the-badge&logo=rust">
       <img src="https://img.shields.io/badge/-Python-blue?&style=for-the-badge&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/-HTML5-orange?&style=for-the-badge&logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/-Markdown-black?&style=for-the-badge&logo=markdown&logoColor=white">
