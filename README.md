@@ -4,7 +4,7 @@
 
 <h3 align="center">This is what I'm up to...</h3>
 
-- 🌱 I’m currently learning robotics - Details to come...
+- 🌱 I’m currently pursuing a Masters of Computer Engineering - Details to come...
 - 🔭 I’m currently working on:
   - A calculator for the web, written in Rust.
   - A set of bash scripts for the automatic setup of my personal Linux systems.
